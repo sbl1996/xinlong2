@@ -1,1 +1,1 @@
-Xinlong is a management system created for xinlong supermarket. This is another front-end code using React and rest-admin. See [xinlong](https://github.com/sbl1996/xinlong) or back-end code [here](https://github.com/sbl1996/xinlong-backend)
+Xinlong is a management system created for xinlong supermarket. This is another front-end code using React and rest-admin. See [xinlong](https://github.com/sbl1996/xinlong) or back-end code [here](https://github.com/sbl1996/xinlong-backend).
